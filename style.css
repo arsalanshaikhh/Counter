@@ -1,0 +1,31 @@
+body {
+  font-family: "Comic Neue", cursive;
+  text-align: center;
+}
+
+button {
+  padding: 30px 60px;
+  font-size: 50px;
+  color: rgb(44, 40, 40);
+  border: solid 3px;
+  margin: 0px 50px;
+  font-family: "Comic Neue", cursive;
+  border-radius: 40px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+button:hover {
+  cursor: pointer;
+  font-size: 60px;
+  background-color: lightgreen;
+}
+
+#clr:hover {
+  background-color: lightsalmon;
+}
+
+h1 {
+  font-size: 270px;
+  padding: 0px;
+}
